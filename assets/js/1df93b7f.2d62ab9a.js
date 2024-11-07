@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktitantkx_github_io=self.webpackChunktitantkx_github_io||[]).push([[583],{1993:(t,i,n)=>{n.r(i),n.d(i,{default:()=>s});var u=n(5557),e=n(6070);function s(){return(0,e.jsx)(u.rd,{to:"docs/getting-set-up/installation/"})}}}]);
